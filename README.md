@@ -20,3 +20,8 @@ I work daily with React, Tailwind CSS and Framer Motion to create smooth interac
 
 I’m always open to new collaborations, whether long-term projects or more focused tasks.
 You can reach me via email, or connect with me on LinkedIn or Upwork.
+
+🎉 FUN FACT:
+• I have a dog.
+• I love video games.
+• I watch a lot of anime.
